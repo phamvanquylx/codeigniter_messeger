@@ -1,0 +1,10 @@
+@import "vars/vars-global";
+@import "mixins/mixins";
+@import "mixins/template";
+/*
+*  Responsive
+*/
+@media (min-width: 1200px) {}
+
+/* Max Width 1200px  */
+@media (max-width: 1200px) {}

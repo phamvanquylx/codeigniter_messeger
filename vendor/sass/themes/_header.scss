@@ -1,0 +1,28 @@
+/* Style Header */
+.s-topbar{
+	background: $white;
+    line-height: 30px;
+    padding: 0px 30px;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+.s-topbar__user{
+	float: left;
+	span{
+		font-size: 13px;
+	}
+	i{
+		margin-right: 5px;
+		font-size: 14px;
+	}
+}
+.s-topbar__logout{
+	float: right;
+	a{
+		font-size: 13px;
+		i{
+			font-size: 14px;
+		}
+	}
+}

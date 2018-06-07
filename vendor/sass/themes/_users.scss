@@ -1,0 +1,26 @@
+/*  */
+/* Style Users Page */
+.wrapper-content{
+	background: $white;
+	display: block;
+	overflow: hidden;
+	width: 100%;
+}
+.sideber-left{
+	width: 250px;
+	display: inline-block;
+	float: left;
+	background: #f0f4f8;
+}
+.main-content{
+	width: calc(100% - 250px);
+	display: inline-block;
+	float: left;
+}
+.main-content{
+    padding: 20px;
+}
+.table-striped{
+    width: 100%;
+    text-align: left;
+}
